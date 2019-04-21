@@ -48,11 +48,11 @@ body {
   }
 
   .quest {
-font-family: cursive;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 color: green;
   }
 
   .creator {
-    font-family: cursive;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     color: yellow;
   }
